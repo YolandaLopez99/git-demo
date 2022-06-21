@@ -2,8 +2,6 @@
 This is a test with git to see if a know how it works
 
 ## Otro titulo
-vdfnkvnkfdjvnkjdnfkjnkvfndkajf
-fdkvnfdkjvkfdvkjdf dkvdfknvlSKV SF VKS DVJsk
 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y 
 archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar 
